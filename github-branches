@@ -1,0 +1,8 @@
+$ git branch -a -v
+* bug-fix-revert                4ecf968 Revert "Fix typo in README footer: update year from 2022 to 2023"
+  bug-fix-typo                  86c9239 Fix typo in README footer: update year from 2022 to 2023
+  main                          86c9239 Fix typo in README footer: update year from 2022 to 2023
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 4ecf968 Revert "Fix typo in README footer: update year from 2022 to 2023"
+  remotes/origin/bug-fix-typo   86c9239 Fix typo in README footer: update year from 2022 to 2023
+  remotes/origin/main           86c9239 Fix typo in README footer: update year from 2022 to 2023
